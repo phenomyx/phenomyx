@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-{% include figure.liquid path="assets/img/phenomyx.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/phenomyx.png" class="img-fluid rounded z-depth-0" zoomable=true%}
 
 
 
