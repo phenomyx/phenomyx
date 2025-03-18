@@ -28,16 +28,19 @@ latest_posts:
 
 
 
-![Phenomyx]({{ site.baseurl }}assets/img/phenomyx.png)
 
 Phenomyx is a community interest company run by the EmbryoPhenomics Research Group at the University of Plymouth. 
 
+![Phenomyx]({{ site.baseurl }}assets/img/phenomyx.png)
+
 The mission of Phenomyx is to maximise the impact of the research technologies and approaches developed by EmbryoPhenomics. It achieves this via the sale and dissemination of technologies and research approaches.
+
+![Phenomyx](/assets/img/phenomyx.png)
 
 Phenomics has incredible potential to contribute to addressing challenges ranging from food security, to conservation.
 
 
-![Phenomyx](/assets/img/phenomyx.png)
+
 
 
 Contact: phenomyx@outlook.com
