@@ -18,7 +18,7 @@ announcements:
 
 
 
-Phenomyx is a community interest company run by the EmbryoPhenomics Research Group at the University of Plymouth. 
+Phenomyxis a community interest company run by the EmbryoPhenomics Research Group at the University of Plymouth. 
 
 
 The mission of Phenomyx is to maximise the impact of the research technologies and approaches developed by EmbryoPhenomics. It achieves this via the sale and dissemination of technologies and research approaches.
