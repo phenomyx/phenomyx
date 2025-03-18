@@ -1,12 +1,8 @@
 ---
 layout: about
-title: about
+title:
 permalink: /
 
-profile:
-  align: right
-  more_info: >
-    <p>phenomyx@outlook.com</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
