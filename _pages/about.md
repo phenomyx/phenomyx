@@ -24,8 +24,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+{% include figure.liquid path="assets/img/phenomyx.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 
-![Phenomyx]({{ site.baseurl }}/assets/img/phenomyx.png)
+
+
+![Phenomyx]({{ site.baseurl }}assets/img/phenomyx.png)
 
 Phenomyx is a community interest company run by the EmbryoPhenomics Research Group at the University of Plymouth. 
 
