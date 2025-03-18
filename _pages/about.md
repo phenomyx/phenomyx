@@ -4,7 +4,7 @@ title: about
 
 profile:
   align: right
-  image: logo.png
+  image: phenomyx.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>phenomyx@outlook.com</p>
@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-![Phenomyx](/assets/img/logo.png)
+![Phenomyx](/assets/img/phenomyx.png)
 
 Phenomyx is a community interest company run by the EmbryoPhenomics Research Group at the University of Plymouth. 
 
