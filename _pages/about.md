@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-![Phenomyx](/assets/imgs/phenomyx.png)
+![Phenomyx](assets/imgs/phenomyx.png)
 
 Phenomyx is a community interest company run by the EmbryoPhenomics Research Group at the University of Plymouth. 
 
