@@ -192,6 +192,14 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - blog
+  - books
+  - _bibliography
+  - news
+  - teaching
+  - _profiles
+  - _cv
+
 keep_files:
   - CNAME
   - .nojekyll
