@@ -144,6 +144,7 @@ exclude:
   - vendor
   - _pages/teaching
   - _pages/news
+  - _pages/projects
   - _pages/cv
   - _pages/people
   - _pages/dropdown
