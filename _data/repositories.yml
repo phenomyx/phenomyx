@@ -1,11 +1,11 @@
 github_users:
-  - otills
-  - zibbini
+
 
 repo_description_lines_max: 2
 
 github_repos:
   - embryophenomics/heartcv
-  - embryophenomics/devresnet
-  - embryophenomics/labembryocam
+  - embryophenomics/dev-resnet
+  - embryophenomics/LabEmbryoCam
   - embryophenomics/vuba
+  
