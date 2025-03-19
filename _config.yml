@@ -142,17 +142,16 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _pages/teaching
-  - _pages/news
-  - _pages/projects
-  - _pages/cv
+  - _pages/teaching.md
+  - _pages/news.md
+  - _pages/projects.md
+  - _pages/cv.md
   - _pages/people
-  - _pages/dropdown
+  - _pages/dropdown.md
+  - _pages/blog.md
   - _books/
-  - _bibliography
   - news
-  - teaching
-  - _profiles
+  - _profiles.md
 
 
 keep_files:
