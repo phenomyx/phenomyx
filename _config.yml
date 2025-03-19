@@ -41,7 +41,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -101,7 +101,7 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -142,14 +142,16 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - blog
-  - books
+  - _pages/teaching
+  - _pages/news
+  - _pages/cv
+  - _pages/people
+  - _pages/dropdown
+  - _books/
   - _bibliography
   - news
   - teaching
   - _profiles
-  - cv
-  - publications
 
 
 keep_files:
