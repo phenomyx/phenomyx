@@ -42,11 +42,11 @@ social: true # includes social icons at the bottom of the page
 
       <div class="card-body">
         <h4 class="card-title">RoboCam</h4>
-
+    
         <p class="card-text">
           Automated imaging platform for high-throughput phenomics workflows.
         </p>
-
+    
         <a href="/robocam/" class="btn btn-primary">
           Learn More
         </a>
@@ -65,11 +65,11 @@ social: true # includes social icons at the bottom of the page
 
       <div class="card-body">
         <h4 class="card-title">FieldCam</h4>
-
+    
         <p class="card-text">
           Portable imaging solutions for ecological and field-based monitoring.
         </p>
-
+    
         <a href="/fieldcam/" class="btn btn-primary">
           Learn More
         </a>
@@ -82,17 +82,17 @@ social: true # includes social icons at the bottom of the page
     <div class="card h-100 shadow-sm">
       <a href="/software/">
         <img src="/assets/img/panels/github.jpg"
-             class="card-img-top"
-             alt="Phenomic Software">
+     class="card-img-top software-img"
+     alt="Phenomic Software">
       </a>
 
       <div class="card-body">
         <h4 class="card-title">Phenomic Software</h4>
-
+    
         <p class="card-text">
           Open-source analysis pipelines for phenotyping and bioimage workflows.
         </p>
-
+    
         <a href="/software/" class="btn btn-primary">
           Learn More
         </a>
