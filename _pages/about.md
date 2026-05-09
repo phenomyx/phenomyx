@@ -9,7 +9,25 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-{% include figure.liquid path="assets/img/phenomyx.png" class="img-fluid rounded z-depth-0" zoomable=true%}
+<div class="text-center mb-4">
+{% include figure.liquid
+   path="assets/img/phenomyx.png"
+   class="img-fluid rounded z-depth-0"
+   style="width: 60%;"
+   zoomable=true
+%}
+</div>
+
+<div class="text-center mb-5">
+
+  <p class="lead">
+
+    Open-source imaging, phenomics, and bioanalysis technologies
+    for developmental biology and environmental monitoring.
+
+  </p>
+
+</div>
 
 <div class="row mt-4">
 
