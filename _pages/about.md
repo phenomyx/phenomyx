@@ -21,10 +21,10 @@ social: true # includes social icons at the bottom of the page
 <div class="text-center mb-5">
 
   <p class="lead">
-
-    Open-source imaging, phenomics, and bioanalysis technologies
-    for developmental biology and environmental monitoring.
-
+   <em>
+    Rethinking how biology is measured using open-source imaging, Phenomyx makes custom hardware 
+    and software available to researchers, educators and curious minds.
+   </em>
   </p>
 
 </div>
