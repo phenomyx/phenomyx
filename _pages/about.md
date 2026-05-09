@@ -11,6 +11,78 @@ social: true # includes social icons at the bottom of the page
 
 {% include figure.liquid path="assets/img/phenomyx.png" class="img-fluid rounded z-depth-0" zoomable=true%}
 
+<div class="row mt-4">
+
+  <!-- RoboCam -->
+  <div class="col-md-4 mb-4">
+    <div class="card h-100 shadow-sm">
+      <a href="/robocam/">
+        <img src="/assets/img/panels/robocam.jpg"
+             class="card-img-top"
+             alt="RoboCam">
+      </a>
+
+      <div class="card-body">
+        <h4 class="card-title">RoboCam</h4>
+
+        <p class="card-text">
+          Automated imaging platform for high-throughput phenomics workflows.
+        </p>
+
+        <a href="/robocam/" class="btn btn-primary">
+          Learn More
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- FieldCam -->
+  <div class="col-md-4 mb-4">
+    <div class="card h-100 shadow-sm">
+      <a href="/fieldcam/">
+        <img src="/assets/img/panels/fieldcam.jpg"
+             class="card-img-top"
+             alt="FieldCam">
+      </a>
+
+      <div class="card-body">
+        <h4 class="card-title">FieldCam</h4>
+
+        <p class="card-text">
+          Portable imaging solutions for ecological and field-based monitoring.
+        </p>
+
+        <a href="/fieldcam/" class="btn btn-primary">
+          Learn More
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Phenomic Software -->
+  <div class="col-md-4 mb-4">
+    <div class="card h-100 shadow-sm">
+      <a href="/software/">
+        <img src="/assets/img/panels/software.jpg"
+             class="card-img-top"
+             alt="Phenomic Software">
+      </a>
+
+      <div class="card-body">
+        <h4 class="card-title">Phenomic Software</h4>
+
+        <p class="card-text">
+          Open-source analysis pipelines for phenotyping and bioimage workflows.
+        </p>
+
+        <a href="/software/" class="btn btn-primary">
+          Learn More
+        </a>
+      </div>
+    </div>
+  </div>
+
+</div>
 
 <p align="center">
 Phenomyx is a community interest company run by the EmbryoPhenomics Research Group at the University of Plymouth. 
