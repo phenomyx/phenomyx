@@ -63,7 +63,7 @@ social: true # includes social icons at the bottom of the page
   <div class="col-md-4 mb-4">
     <div class="card h-100 shadow-sm">
       <a href="/software/">
-        <img src="/assets/img/panels/software.jpg"
+        <img src="/assets/img/panels/github.jpg"
              class="card-img-top"
              alt="Phenomic Software">
       </a>
