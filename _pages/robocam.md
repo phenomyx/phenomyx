@@ -1,14 +1,10 @@
-\---
-
+---
 layout: page
-
 title: RoboCam
-
 permalink: /robocam/
-
 description: Robotic imaging platform for multiwell plate time-lapse imaging.
 
-\---
+---
 
 ## RoboCam
 
