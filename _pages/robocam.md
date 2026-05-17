@@ -1,3 +1,15 @@
+\---
+
+layout: page
+
+title: RoboCam
+
+permalink: /robocam/
+
+description: Robotic imaging platform for multiwell plate time-lapse imaging.
+
+\---
+
 ## RoboCam
 
 <img src="/assets/img/robocam.jpg" alt="RoboCam" style="max-width: 80%; display: block; margin: auto;">
